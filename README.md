@@ -1,4 +1,5 @@
 # angularJS-google-charts-dynamic
-Eu estava com problemas para deixar os gráficos dinâmicos então foi realizado a seguinte implementação. 
+Eu estava com problemas para deixar os gráficos dinâmicos então foi realizado a seguinte <a href="http://plnkr.co/edit/hMnKAzjbkQzHWjL5p6KX?p=info">implementação</a>.
 
-http://plnkr.co/edit/hMnKAzjbkQzHWjL5p6KX?p=info
+O plugin usado nos gráficos é
+  https://github.com/angular-google-chart/angular-google-chart
