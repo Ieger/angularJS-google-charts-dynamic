@@ -1,5 +1,3 @@
-// Code goes here
-
 var app = angular.module('myApp', [ 'googlechart' ]);
 
 app.controller('MainCtrl', function($scope) {
