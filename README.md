@@ -1,6 +1,3 @@
- * Created by Erik Ieger Dobrychtop
- * 15/08/2016
- 
 # AngularJS google charts dynamic
 Eu estava com problemas para deixar os gráficos dinâmicos então meu amigo <a target="_blank" href="http://www.flaviomisawa.com.br">Flavio Misawa</a> me ajudou na seguinte <a target="_blank" href="http://plnkr.co/edit/hMnKAzjbkQzHWjL5p6KX?p=info">implementação</a>.
 
