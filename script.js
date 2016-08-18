@@ -1,3 +1,7 @@
+/**
+ * Created by Erik Ieger Dobrychtop
+ * 15/08/2016
+ */
 var app = angular.module('myApp', [ 'googlechart' ]);
 
 app.controller('MainCtrl', function($scope) {
