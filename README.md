@@ -3,7 +3,7 @@ Eu estava com problemas para deixar os gráficos dinâmicos então meu amigo <a 
 
 O plugin usado nos gráficos foi o <a href="https://github.com/angular-google-chart/angular-google-chart">angular-google-chart</a>.
 
-/**
+
  * Created by Erik Ieger Dobrychtop
  * 15/08/2016
- */
+
